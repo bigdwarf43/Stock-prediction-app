@@ -1,0 +1,7 @@
+requests==2.25.1
+streamlit==0.80.0
+fbprophet==0.7.1
+yahoo_fin==0.8.8
+yfinance==0.1.59
+plotly==4.14.3
+pandas==1.2.4
